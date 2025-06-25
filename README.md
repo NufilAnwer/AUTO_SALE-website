@@ -19,7 +19,7 @@ CarHub is a modern, responsive car marketplace website built using **HTML**, **C
 
 > Add your screenshots here:
 >
-> ![Homepage](assets/screenshots/homepage.png)
+> ![Homepage](https://github.com/NufilAnwer/AUTO_SALE-website/blob/main/Screenshot%202025-06-26%20010806.png)
 > ![Car Listings](assets/screenshots/listings.png)
 > ![Sell Page](assets/screenshots/sell.png)
 
